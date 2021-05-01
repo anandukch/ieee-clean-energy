@@ -1,0 +1,36 @@
+.nav_main{
+    height: auto;
+    width: 100%;
+    background-color: aliceblue;
+    display: flex;
+    box-shadow: 50px 50px 50px rgba(28, 82, 23, 0.2), 0px 0px 50px rgb(124, 255, 72);
+    
+
+
+}
+
+.img_bar{
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex: 0.7;
+    
+
+
+}
+img{
+    position: relative;
+    width: 100px;
+    height: auto;
+    object-fit: fill;
+}
+img div{
+    width: auto;
+    height: auto;
+    justify-content: center;
+}
+
+.content{
+
+}

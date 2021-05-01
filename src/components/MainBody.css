@@ -1,0 +1,14 @@
+.main_body{
+    margin-right: auto;
+    margin-left: auto;
+    background-color: rgb(234, 241, 241);
+    height: auto;
+    width: 1200px;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    border:  green;
+    box-shadow: 50px 50px 50px rgba(125, 141, 123, 0.2), 0px 0px 10px rgb(129, 141, 124);
+
+}
